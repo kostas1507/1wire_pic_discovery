@@ -28,7 +28,7 @@ There is an example implementation in examples/main.c but you need to change #pr
 
 ****
 
-## Disclaimer:
+## Disclaimer (ChatGPT generated):
 
 This project, "1wire-pic-discovery," is an independent software implementation for PIC microcontrollers aimed at supporting the 1-wire protocol. It is not affiliated with, endorsed by, or connected to any products or services associated with the trademark "1wire" or its owner. The use of the term "1wire" in this project is descriptive and refers solely to the implementation of the 1-wire protocol for PIC microcontrollers. Any reference to "1wire" is not intended to create confusion with or infringe upon the rights of the trademark owner. All trademarks and registered trademarks mentioned in this project belong to their respective owners.
 
